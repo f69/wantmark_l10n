@@ -26,6 +26,7 @@
   "langBelorussian": "Беларуская",
   "langUkrainian": "Українська",
   "langBulgarian": "Български",
+  "langPolish": "Polski",
   "valueRange": "from {minValue} to {maxValue}",
   "@valueRange": {
     "placeholders": {
