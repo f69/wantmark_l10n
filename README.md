@@ -2,7 +2,9 @@
 
 Localization resources for mobile app "Want mark!"
 
-# App Downloads
+&nbsp;
+
+## App Downloads
 
 To try the app you can download it from your favorite app store:
 * [Google Play](https://play.google.com/store/apps/details?id=by.ds.markcalc)
@@ -10,7 +12,9 @@ To try the app you can download it from your favorite app store:
 
 Or you can try it on the web at https://f69.github.io/wantmark.app/
 
-# Project structure
+&nbsp;
+
+## Project structure
 
 ```
 ├── data
@@ -37,7 +41,9 @@ screens
 * `app_<lang>.arb` files in `strings` folder contain strings used in the app 
 user interface
 
-# Contributing
+&nbsp;
+
+## Contributing
 
 If you want to corrent existing or add new translation please create pull 
 request.
